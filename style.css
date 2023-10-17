@@ -1,0 +1,20 @@
+.h-page1 {
+    background-color: rgb(18, 18, 60);
+    color: white;
+}
+p {
+    background-color: white;
+    color: black;
+}
+.div-page1 {
+    margin: 30px;
+    text-align: center;
+}
+
+.div-page2{
+    border: 2px solid black;
+}
+.h-page2{
+    background-color: rgb(57, 21, 90);
+   color: white;
+}
